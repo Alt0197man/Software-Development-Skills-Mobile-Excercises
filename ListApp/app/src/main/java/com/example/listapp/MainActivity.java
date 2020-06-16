@@ -27,7 +27,8 @@ public class MainActivity extends AppCompatActivity {
         durations = res.getStringArray(R.array.durations);
         descriptions = res.getStringArray(R.array.decriptions);
 
-
+        ItemAdapter itemAdapter = new ItemAdapter(this, items, durations, descriptions);
+        myListView.setAdapter(itemAdapter);
 
     }
 }
