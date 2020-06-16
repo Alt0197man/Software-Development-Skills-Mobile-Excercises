@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">List App</string>
+
+    <string-array name="activities">
+        <item>work</item>
+        <item>study</item>
+        <item>Netflix</item>
+        <item>music practice</item>
+        <item>physical exercise</item>
+    </string-array>
+
+    <string-array name="durations">
+        <item>7h 30min</item>
+        <item>3h 00min</item>
+        <item>1h 15min</item>
+        <item>0h 30min</item>
+        <item>1h 00min</item>
+    </string-array>
+
+    <string-array name="decriptions">
+        <item>All work and no play makes Johnny a dull boy</item>
+        <item>Studying programming is so much fun!</item>
+        <item>Have you already binged that new show on Netflix?</item>
+        <item>Only 9999 more hours to make you a virtuoso shred god…</item>
+        <item>Beach body 2035!</item>
+    </string-array>
+</resources>
